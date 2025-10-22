@@ -1,9 +1,11 @@
 streamlit
+torch
+torchvision
+torchaudio
+pillow
 numpy
 pandas
 matplotlib
 seaborn
-torch
-torchvision
-torchaudio
 scikit-learn
+plotly
